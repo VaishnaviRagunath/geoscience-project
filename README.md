@@ -1,8 +1,19 @@
 # 🌍 Geoscience AI Research Assistant
 
 ## Project Title
-
 Automated Dataset Pipeline for Geoscience Embedding Model Fine-Tuning Using Web Scraping and LLM APIs
+
+## Description
+This project builds an AI-powered geoscience assistant using a complete pipeline:
+
+- Web scraping
+- Data cleaning
+- Structuring into Q&A
+- Embedding generation
+- FAISS vector search
+- Mistral LLM for answers
+
+The system retrieves relevant geoscience data and generates accurate answers with sources.
 
 ## Setup
 
@@ -14,16 +25,3 @@ Automated Dataset Pipeline for Geoscience Embedding Model Fine-Tuning Using Web 
 
 3. Run the project:
    python main.py
-
-## Description
-
-This project builds an AI-powered geoscience assistant using a complete pipeline:
-
-- Web scraping
-- Data cleaning
-- Structuring into Q&A
-- Embedding generation
-- FAISS vector search
-- Mistral LLM for answers
-
-The system retrieves relevant geoscience data and generates accurate answers with sources.
