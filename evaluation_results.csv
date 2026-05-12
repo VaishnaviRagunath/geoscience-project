@@ -1,0 +1,4 @@
+Question,Retrieval Accuracy,Retrieval Similarity,Answer Similarity,Response Time (s)
+What is magma?,1.0,0.576,0.656,7.78
+What is atmosphere?,1.0,0.607,0.708,8.67
+Explain tectonic plates,1.0,0.668,0.833,7.46

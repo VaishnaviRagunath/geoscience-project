@@ -1,0 +1,13 @@
+Lithosphere is the rigid outer layer of the Earth consisting of the crust and upper mantle.
+
+Biosphere is the global sum of all ecosystems, representing the zone of life on Earth.
+
+Hydrosphere includes all water bodies on Earth such as oceans, rivers, and lakes.
+
+Atmosphere is the layer of gases surrounding Earth.
+
+Magma is molten rock beneath Earth’s surface.
+
+Lava is molten rock that reaches the Earth's surface.
+
+Tectonic plates are large pieces of Earth’s lithosphere that move over the asthenosphere.
